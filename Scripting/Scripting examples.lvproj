@@ -15,7 +15,7 @@
 			<Item Name="Change Label Style.vi" Type="VI" URL="../subVis/Change Label Style.vi"/>
 		</Item>
 		<Item Name="Add Block Diagram code.vi" Type="VI" URL="../Add Block Diagram code.vi"/>
-		<Item Name="Add function to BD.vi" Type="VI" URL="../Add function to BD.vi"/>
+		<Item Name="Add function to BD.vi" Type="VI" URL="../subVis/Add function to BD.vi"/>
 		<Item Name="Change panel color.vi" Type="VI" URL="../subVis/Change panel color.vi"/>
 		<Item Name="Scripting Main.vi" Type="VI" URL="../Scripting Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
